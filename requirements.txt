@@ -1,0 +1,8 @@
+pypdf
+langchain
+langchain-community
+chromadb # Vector storage
+pytest
+boto3
+openai
+#uvicorn==0.18.3
